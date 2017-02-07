@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-/__pycache__
+virvix/__pycache__
 virtualenv
 db.sqlite3
 /static
